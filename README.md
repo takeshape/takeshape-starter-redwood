@@ -17,7 +17,7 @@ The following is a guide to launching a Redwood TakeShape project that injects E
 
 4. In the terminal on your local machine, clone this repo with `git clone https://github.com/takeshape/takeshape-starter-redwood`
 
-5. Open the project directory and edit `.env`. Replace `Your-Endpoint-Here` with your endpoint, and `Your-Api-Key-Here` with your TakeShape project's api key.
+5. Open the project directory and edit `.env.example`. Replace `Your-Endpoint-Here` with your endpoint, and `Your-Api-Key-Here` with your TakeShape project's api key. When you're done, save it and rename the file to `.env`.
 
 6. Run `yarn rw dev` from the root directory of the project in your terminal.
 
