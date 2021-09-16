@@ -1,0 +1,5 @@
+name: Redwood Ecommerce Example
+description: 'This project shows how to integrate TakeShape into any Redwoodjs project.'
+categories:
+  - examples
+  - quickstart
